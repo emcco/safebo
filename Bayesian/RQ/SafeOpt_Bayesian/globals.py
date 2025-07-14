@@ -19,4 +19,4 @@ iterations = 41 # actual iterations + 1
 index = 1
 comp = 'SO_B_RQ'
 # folder_path = 'code/Bayesian/RQ/SafeOpt_Bayesian/'
-folder_path = 'writing'
+folder_path = 'test'

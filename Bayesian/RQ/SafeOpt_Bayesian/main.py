@@ -118,12 +118,12 @@ def main():
 if __name__ == "__main__":
 
 
-    globals.index = 42
+    globals.index = 1
     globals.bool_bounds = True
     # globals.comp = 'SO_B_RQ'
     globals.comp = 'plot'
     globals.nu = 2.5
 
-    for i in range(101-42):
+    for i in range(100):
         main()
         globals.index = globals.index + 1

@@ -106,8 +106,8 @@ def main():
     print('Done')
 
 if __name__ == "__main__":
-    globals.index = 80
+    globals.index = 1
     globals.comp = 'SUCB_B_RQ'
-    for i in range(20):
+    for i in range(100):
         main()
         globals.index = globals.index + 1

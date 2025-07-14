@@ -107,7 +107,7 @@ if __name__ == "__main__":
     globals.bool_bounds = True
     # globals.comp = 'SO_F_SE'
     globals.comp = 'plot'
-    globals.index = 2
+    globals.index = 1
     for i in range(100):
         main()
         globals.index = globals.index + 1
