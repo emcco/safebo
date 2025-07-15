@@ -1,6 +1,6 @@
 # Safe Bayesian Optimization with Frequentist and Bayesian Error Bounds
 
-Hi! Welcome to my git repo containing the software I wrote and used for my master thesis 'Safe Exploration Methods for Gaussian Processes' at the Institute of Control System at the University of Technology Hamburg, Germany. 
+Hi! Welcome to my git repo containing the software I wrote and used for my master thesis 'Safe Exploration Methods for Gaussian Processes' at the Institute of Control Systems at the University of Technology Hamburg, Germany. 
 
 ## Contents
 - [Theory](#theory)
@@ -39,7 +39,6 @@ All results hold for the GP-UCB algorithm equivalently.
 ## Author
 
 **Emir Bajrović** ([@emcco](https://github.com/emcco))  
-Institute of Control Systems, TU Hamburg  
 📍 Hamburg, Germany
 
 
